@@ -1,0 +1,5 @@
+By using the wavegen tool in waveforms to generate the sine waves at multiple frequencies like 100 Hz,500 Hz,1 kHz,2 kHz, 5kHz and 10 kHz. 
+And then by using oscilloscope and in measurement section for both channels i added peak to peak voltage and then i started recording above mentioned frequencies.
+Next i have calculated the gain (vout/vin) and gain(db) also with these values i have wrote the code in spyder software to generate the plotes
+Actually i have done in demo mode so the input and voltage outputs are not accurate so for real values or the values which may come during fixed RC low pass filter i used those values also to check how it will work 
+In this i observed that the input waveforms remains constant in amplitude for all the test frequencies and the output waveforms shows higher amplitude at low frequencies and gradually decreases as frequency increases 
